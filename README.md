@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Open-Source Contributions<br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for help with mental issues<br>🌱 I’m currently learning Cybersecurity<br>💬 Ask me about how to center a div (Hint: I don't know)<br>⚡ Fun fact: I ACTUALLY love what I do!
+🔭 I’m currently working in Open-Source Contributions<br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for internship opportunities in Cybersecurity<br>🌱 I’m currently learning Penetration Testing<br>⚡ Fun fact: I ACTUALLY love what I do!
 
 
 ## 🌐 Socials:
