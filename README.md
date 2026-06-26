@@ -7,17 +7,17 @@
   5. Separately, PIN these repos on your profile: Sentinel Eye, Falter, the Secure-SDLC-Pipeline, the Purple-Team-Lab, Dustinel AI.
 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Offensive+Security+%26+AppSec;Backend+Developer;Breaking+apps+to+build+better+ones." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA_'27-000?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCM%20PEH-Certified-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/SIH_2025-National_Grand_Finalist-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft_Imagine_Cup-Top_22-blue?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=130&section=header&text=🐉%20Aditya&fontSize=44&fontColor=ffffff&fontAlignY=68&animation=fadeIn" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black" />
+
+</div>
 ---
 
 ## 🛡️ About Me
@@ -118,6 +118,8 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
 - 🧠 **Cisco Networking Academy** — Introduction to Cybersecurity · Network Essentials
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
 
 <!-- Add when ready:
 ## ✍️ Writeups & Blog
