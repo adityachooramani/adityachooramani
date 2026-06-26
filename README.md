@@ -1,21 +1,129 @@
-# 💫 About Me:
-🔭 I’m currently working in Open-Source Contributions<br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for internship opportunities in Cybersecurity<br>🌱 I’m currently learning Penetration Testing<br>⚡ Fun fact: I ACTUALLY love what I do!
+<!--
+  SETUP NOTES (delete this block before publishing):
+  1. This file goes in a repo named exactly  adityachooramani/adityachooramani  to show on your profile.
+  2. Replace every  REPO-LINK  placeholder with the real repo URL.
+  3. Add your blog/writeups link where marked, or remove that section until it exists.
+  4. Preview the badges on GitHub. If any icon doesn't render, the badge slug is off — swap the logo= value or drop the logo. (AWS sometimes needs logo=amazonaws instead of amazonwebservices.)
+  5. Separately, PIN these repos on your profile: Sentinel Eye, Falter, the Secure-SDLC-Pipeline, the Purple-Team-Lab, Dustinel AI.
+-->
 
+<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h3 align="center">Aspiring Offensive Security & AppSec Engineer · Backend Developer</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gHFRDZxr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shunya.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachooramani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aa9itya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaxchooramani@gmail.com) 
+<p align="center">
+Breaking apps to understand them, then building the detections that catch the break.<br/>
+BCA · Practical Ethical Hacking (TCM) · SIH 2025 National Grand Finalist · Microsoft Imagine Cup Top 22
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityachooramani&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityachooramani&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachooramani&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+## 🛡️ About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityachooramani&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+- 🎯 Targeting **SOC / AppSec / VAPT** internships and roles
+- 🧰 Building hands-on security work: a **Secure SDLC (DevSecOps) pipeline** and a **purple-team detection lab** (attack + detect)
+- ☁️ Real **multi-cloud + IAM + IaC** experience (AWS & Azure) from production-style projects
+- 🔓 Completed **Practical Ethical Hacking** (TCM Security); currently working **PortSwigger Web Security Academy** + bug bounty
+- 🌐 Open-source contributor (Freifunk decentralized network ecosystem)
+- ⚡ Fun fact: I actually love what I do
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachooramani)
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/aa9itya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaxchooramani@gmail.com)
+<!-- Add when ready: [![Blog](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](YOUR-BLOG-LINK) -->
+
+---
+
+## 🧰 Tech & Security Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Offensive Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E5BB7?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-EE0000?style=flat-square)
+
+**Defensive / Monitoring**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3268C7?style=flat-square&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=flat-square&logo=semgrep&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+**Backend & Databases**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+<sub>Also work with: React · Next.js · Cisco networking · Arduino · NumPy/Pandas (data tooling)</sub>
+
+---
+
+## 🚀 Featured Projects
+
+> Pin these on your profile too — the README section and the pinned repos should match.
+
+**🛰️ Sentinel Eye** — Serverless AWS backend with event-driven security alerting
+Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [`REPO-LINK`](REPO-LINK)
+
+**🔒 Secure SDLC Pipeline** *(in progress)* — DevSecOps reference project
+Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](REPO-LINK)
+
+**🟣 Purple-Team Detection Lab** *(in progress)* — attack + detect, end to end
+Manual exploitation of a vulnerable API (with a professional pentest report) + Wazuh detection rules mapped to MITRE ATT&CK that catch each attack live. → [`REPO-LINK`](REPO-LINK)
+
+**🛡️ Falter — Network Hardening Engine** — C & Shell config engine
+Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](REPO-LINK)
+
+**🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
+18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](REPO-LINK)
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🥇 **Smart India Hackathon 2025** — National Grand Finalist (Top 2%, National Security category)
+- 🌍 **Microsoft Imagine Cup** — Top 22, Global Semi-Finalist
+- 🔓 **Practical Ethical Hacking** — TCM Security (completed)
+- 🧠 **Cisco Networking Academy** — Introduction to Cybersecurity · Network Essentials
+
+---
+
+<!-- Add when ready:
+## ✍️ Writeups & Blog
+- [Writeup title](LINK)
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachooramani&theme=gotham&hide_border=true&layout=compact&langs_count=8" height="165" />
+</p>
