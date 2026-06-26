@@ -91,7 +91,7 @@ BCA 27' · Practical Ethical Hacking (TCM) · SIH 2025 National Grand Finalist �
 > Pin these on your profile too — the README section and the pinned repos should match.
 
 **🛰️ Sentinel Eye** — Serverless AWS backend with event-driven security alerting
-Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [https://github.com/adityachooramani/sentinel-eye_backend](REPO-LINK)
+Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [`REPO-LINK`](https://github.com/adityachooramani/sentinel-eye_backend)
 
 **🔒 Secure SDLC Pipeline** *(in progress)* — DevSecOps reference project
 Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](REPO-LINK)
