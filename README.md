@@ -15,8 +15,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black" />
-
+[<img src="https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black" />
+](https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-33FF66?style=flat-square&logo=gnubash&logoColor=black)
 </div>
 ---
 
