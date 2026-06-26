@@ -7,12 +7,15 @@
   5. Separately, PIN these repos on your profile: Sentinel Eye, Falter, the Secure-SDLC-Pipeline, the Purple-Team-Lab, Dustinel AI.
 -->
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
-<h3 align="center">Offensive Security & AppSec Engineer · Backend Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Offensive+Security+%26+AppSec;Backend+Developer;Breaking+apps+to+build+better+ones." alt="Typing SVG" />
+</h1>
 
 <p align="center">
-Breaking apps to understand them, then building the detections that catch the break.<br/>
-BCA 27' · Practical Ethical Hacking (TCM) · SIH 2025 National Grand Finalist · Microsoft Imagine Cup Top 22
+  <img src="https://img.shields.io/badge/BCA_'27-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCM%20PEH-Certified-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIH_2025-National_Grand_Finalist-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft_Imagine_Cup-Top_22-blue?style=flat-square" />
 </p>
 
 ---
