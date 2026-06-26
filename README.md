@@ -115,9 +115,6 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
 - 🧠 **Cisco Networking Academy** — Introduction to Cybersecurity · Network Essentials
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
-
 <!-- Add when ready:
 ## ✍️ Writeups & Blog
 - [Writeup title](LINK)
@@ -129,3 +126,5 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
   <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachooramani&theme=gotham&hide_border=true&layout=compact&langs_count=8" height="165" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
