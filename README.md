@@ -90,8 +90,6 @@
 
 ## 🚀 Featured Projects
 
-> Pin these on your profile too — the README section and the pinned repos should match.
-
 **🛰️ Sentinel Eye** — Serverless AWS backend with event-driven security alerting
 Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [`REPO-LINK`](https://github.com/adityachooramani/sentinel-eye_backend)
 
