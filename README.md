@@ -26,7 +26,6 @@
 - 🧰 Building hands-on security work: a **Secure SDLC (DevSecOps) pipeline** and a **purple-team detection lab** (attack + detect)
 - ☁️ Real **multi-cloud + IAM + IaC** experience (AWS & Azure) from production-style projects
 - 🔓 Completed **Practical Ethical Hacking** (TCM Security); currently working **PortSwigger Web Security Academy** + bug bounty
-- 🌐 Open-source contributor (Freifunk decentralized network ecosystem)
 - ⚡ Fun fact: I actually love what I do
 
 ---
