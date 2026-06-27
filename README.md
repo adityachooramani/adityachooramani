@@ -103,7 +103,7 @@ Manual exploitation of a vulnerable API (with a professional pentest report) + W
 Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
 **🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
-18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](REPO-LINK)
+18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](https://github.com/adityachooramani/Dustinel_AI)
 
 ---
 
