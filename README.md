@@ -35,7 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachooramani)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/aa9itya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaxchooramani@gmail.com)
-<!-- Add when ready: [![Blog](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](YOUR-BLOG-LINK) -->
+[![Blog](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://dev.to/adityachooramani)
 
 ---
 
@@ -115,10 +115,8 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
 - 🧠 **Cisco Networking Academy** — Introduction to Cybersecurity · Network Essentials
 
 ---
-<!-- Add when ready:
 ## ✍️ Writeups & Blog
-- [Writeup title](LINK)
--->
+- [I Tried to Hack My Own Hackathon Project. It Took Ten Minutes.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
 
 ## 📊 GitHub Stats
 
