@@ -84,6 +84,9 @@
 **🛰️ Sentinel Eye** — Serverless AWS backend with event-driven security alerting
 Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [`REPO-LINK`](https://github.com/adityachooramani/sentinel-eye_backend)
 
+**🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
+18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](https://github.com/adityachooramani/Dustinel_AI)
+
 **🔒 Secure SDLC Pipeline** *(in progress)* — DevSecOps reference project
 Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](REPO-LINK)
 
@@ -91,10 +94,7 @@ Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (
 Manual exploitation of a vulnerable API (with a professional pentest report) + Wazuh detection rules mapped to MITRE ATT&CK that catch each attack live. → [`REPO-LINK`](REPO-LINK)
 
 **🛡️ Falter — Network Hardening Engine** — C & Shell config engine
-Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](https://github.com/freifunk-berlin/falter-packages/pull/502)
-
-**🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
-18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](https://github.com/adityachooramani/Dustinel_AI)
+Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](https://github.com/freifunk-berlin/falter-packages/pull/502
 
 ---
 
