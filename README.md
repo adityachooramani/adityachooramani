@@ -1,12 +1,3 @@
-<!--
-  SETUP NOTES (delete this block before publishing):
-  1. This file goes in a repo named exactly  adityachooramani/adityachooramani  to show on your profile.
-  2. Replace every  REPO-LINK  placeholder with the real repo URL.
-  3. Add your blog/writeups link where marked, or remove that section until it exists.
-  4. Preview the badges on GitHub. If any icon doesn't render, the badge slug is off — swap the logo= value or drop the logo. (AWS sometimes needs logo=amazonaws instead of amazonwebservices.)
-  5. Separately, PIN these repos on your profile: Sentinel Eye, Falter, the Secure-SDLC-Pipeline, the Purple-Team-Lab, Dustinel AI.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=130&section=header&text=Aditya%🐉&fontSize=44&fontColor=ffffff&fontAlignY=68&animation=fadeIn" />
@@ -26,7 +17,7 @@
 - 🧰 Building hands-on security work: a **Secure SDLC (DevSecOps) pipeline** and a **purple-team detection lab** (attack + detect)
 - ☁️ Real **multi-cloud + IAM + IaC** experience (AWS & Azure) from production-style projects
 - 🔓 Completed **Practical Ethical Hacking** (TCM Security); currently working **PortSwigger Web Security Academy** + bug bounty
-- ⚡ Fun fact: I actually love what I do
+- ⚡ Fun fact: I ACTUALLY love what I do
 
 ---
 
