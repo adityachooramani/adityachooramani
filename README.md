@@ -87,8 +87,8 @@ Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud dete
 **🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
 18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](https://github.com/adityachooramani/Dustinel_AI)
 
-**🔒 Secure SDLC Pipeline** *(in progress)* — DevSecOps reference project
-Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](REPO-LINK)
+**🔒 Break&Detect - Secure SDLC Pipeline** — DevSecOps reference project
+Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](https://github.com/adityachooramani/break-and-detect)
 
 **🟣 Purple-Team Detection Lab** *(in progress)* — attack + detect, end to end
 Manual exploitation of a vulnerable API (with a professional pentest report) + Wazuh detection rules mapped to MITRE ATT&CK that catch each attack live. → [`REPO-LINK`](REPO-LINK)
