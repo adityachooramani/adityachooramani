@@ -110,7 +110,6 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
 - [I Tried to Hack My Own Hackathon Project. It Took Ten Minutes.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachooramani&theme=gotham&hide_border=true&layout=compact&langs_count=8" height="165" />
