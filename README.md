@@ -106,7 +106,6 @@ Automated secure routing and attack-surface reduction on OpenWrt/Procd, with har
 ## ✍️ Writeups & Blog
 - [I Tried to Hack My Own Hackathon Project. It Took Ten Minutes.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
 - [I Put Eight Security Bugs in a Flask App on Purpose. The Robots Only Caught Some of Them.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
-)
 
 
 ## 📊 GitHub Stats
