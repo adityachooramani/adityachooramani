@@ -90,9 +90,6 @@ Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud dete
 **🔒 Break&Detect - Secure SDLC Pipeline** — DevSecOps reference project
 Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](https://github.com/adityachooramani/break-and-detect)
 
-**🟣 Purple-Team Detection Lab** *(in progress)* — attack + detect, end to end
-Manual exploitation of a vulnerable API (with a professional pentest report) + Wazuh detection rules mapped to MITRE ATT&CK that catch each attack live. → [`REPO-LINK`](REPO-LINK)
-
 **🛡️ Falter — Network Hardening Engine** — C & Shell config engine
 Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
