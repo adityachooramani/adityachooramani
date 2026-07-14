@@ -13,8 +13,7 @@
 
 ## 🛡️ About Me
 
-- 🎯 Targeting **SOC / AppSec / VAPT** roles
-- 🧰 Building hands-on security work: a **Secure SDLC (DevSecOps) pipeline** and a **purple-team detection lab** (attack + detect)
+- 🎯 Targeting **WebDev and CloudDev / AppSec / VAPT** roles
 - ☁️ Real **multi-cloud + IAM + IaC** experience (AWS & Azure) from production-style projects
 - 🔓 Completed **Practical Ethical Hacking** (TCM Security); currently working **PortSwigger Web Security Academy** + bug bounty
 - ⚡ Fun fact: I ACTUALLY love what I do
