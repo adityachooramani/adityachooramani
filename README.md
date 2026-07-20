@@ -1,5 +1,4 @@
-<video src="https://raw.githubusercontent.com/adityachooramani/adityachooramani/main/super.mp4" width="100%" controls></video>
-
+<video src="https://github.com/user-attachments/assets/b7c9c4b4-d5d8-4cc3-9214-d25e4476a1dc" width="100%" autoplay loop muted playsinline></video>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
@@ -28,7 +27,7 @@
 - 🎯 I do AppSec and VAPT: Finding bugs in my own and others' code ;)
 - ☁️ Real multi-cloud experience across AWS and Azure.
 - 🔓 Trying my luck with bug bounties and Job application while trying to remain sane >_<
-- ☕ Other than computers and tech my hobbies are ... (thinking agressively)
+- ☕ Other than computers and tech I like to eat, watch cinema and travel!
 
 </td>
 <td width="38%" align="center" valign="middle">
