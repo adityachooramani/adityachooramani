@@ -26,10 +26,10 @@
 
 ### A little about me
 
-- 🎯 I do AppSec and VAPT: I'd rather find the bug in my own code than have someone else find it for me.
-- ☁️ Real multi-cloud experience across AWS and Azure, mostly IAM and infrastructure as code.
-- 🔓 Finished TCM's Practical Ethical Hacking. Currently deep in PortSwigger Academy and bug bounty hunting.
-- ☕ Fueled by coffee and a mild, growing addiction to Burp Suite.
+- 🎯 I do AppSec and VAPT: Finding bugs in my own and others' code ;)
+- ☁️ Real multi-cloud experience across AWS and Azure.
+- 🔓 Trying my luck with bug bounties and Job application while trying to remain sane >_<
+- ☕ Other than computers and tech my hobbies are ... (thinking agressively)
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 - **🛰️ Sentinel Eye:** a serverless AWS backend with least-privilege IAM and real-time SNS alerting, chewing through about 1.6GB of geospatial data. [`repo`](https://github.com/adityachooramani/sentinel-eye_backend)
 - **🏗️ Dustinel AI:** Azure and AI security combined, 18 services provisioned via IaC, Entra External ID auth, and a secured GPT-4o pipeline. Landed Top 22 at Imagine Cup. [`repo`](https://github.com/adityachooramani/Dustinel_AI)
 - **🔒 Break&Detect:** a Flask API deliberately full of bugs, run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) to prove the pipeline actually catches them. [`repo`](https://github.com/adityachooramani/break-and-detect)
-- **🛡️ Falter:** a C and shell hardening engine for OpenWrt, built for attack-surface reduction and tamper detection. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
+- **🛡️ Falter:** a C and shell hardening engine for OpenWrt. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
 <div align="center">
 
