@@ -74,5 +74,5 @@
 - **🛡️ Falter:** a C and shell hardening engine for OpenWrt. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="70%" />
+<img src="https://i.pinimg.com/1200x/27/9d/c7/279dc7f59de7d37ccb6f4b3fd91c0cf7.jpg" width="70%" />
 </div>
