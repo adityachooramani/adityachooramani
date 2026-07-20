@@ -76,10 +76,5 @@
 - **🔒 Break&Detect:** a Flask API deliberately full of bugs, run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) to prove the pipeline actually catches them. [`repo`](https://github.com/adityachooramani/break-and-detect)
 - **🛡️ Falter:** a C and shell hardening engine for OpenWrt. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
-<div align="center">
-
-🥇 SIH 2025 National Finalist (Top 2%) · 🌍 Imagine Cup Top 22 · 🔓 TCM PEH · 🧠 Cisco CyberEssentials
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
