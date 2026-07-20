@@ -1,4 +1,4 @@
-<div align="center">
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/f035851e-be80-47b0-ad63-82597f203e8f" /><div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
@@ -30,7 +30,7 @@
 
 </td>
 <td width="38%" align="center" valign="middle">
-<img src="https://i.pinimg.com/736x/49/5f/f2/495ff2d3b6a63ce574c138067ede6ed3.jpg" width="100%" />
+<img src="https://i.pinimg.com/736x/0e/13/4c/0e134c4075bd53c2446fbd527b88c39c.jpg" width="100%" />
 </td>
 </tr>
 </table>
