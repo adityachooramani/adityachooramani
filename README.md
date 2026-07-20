@@ -9,10 +9,6 @@
 <br>
 
 <div align="center">
-<img src="./starfield-banner.svg" width="100%" />
-</div>
-
-<div align="center">
 <img src="https://i.pinimg.com/736x/17/66/bd/1766bd75311e5358b610251569795af8.jpg" width="30%" />
 </div>
 
