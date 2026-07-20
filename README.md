@@ -1,116 +1,78 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=130&section=header&text=Aditya%🐉&fontSize=44&fontColor=ffffff&fontAlignY=68&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=120&section=header&text=Aditya%20🐉&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
-[<img src="https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black" />
-](https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-33FF66?style=flat-square&logo=gnubash&logoColor=black)
+[![terminal](https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black)](https://github.com/adityachooramani)
+
 </div>
----
 
-## 🛡️ About Me
+<br>
 
-- 🎯 Targeting **WebDev and CloudDev / AppSec / VAPT** roles
-- ☁️ Real **multi-cloud + IAM + IaC** experience (AWS & Azure) from production-style projects
-- 🔓 Completed **Practical Ethical Hacking** (TCM Security); currently working **PortSwigger Web Security Academy** + bug bounty
-- ⚡ Fun fact: I ACTUALLY love what I do
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D0D0D" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityachooramani&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</td>
+</tr>
+</table>
+</p>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityachooramani&theme=onedark&row=1&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true" width="82%" />
+</div>
 
-## 🌐 Connect
+<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+</div>
+
+### About
+🎯 AppSec / VAPT — chasing bugs, not just building around them
+☁️ Multi-cloud IAM + IaC experience (AWS & Azure) from production-style builds
+🔓 TCM Practical Ethical Hacking — done. PortSwigger + bug bounty — in progress.
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachooramani)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/aa9itya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaxchooramani@gmail.com)
-[![Blog](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://dev.to/adityachooramani)
+[![Writeups](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://dev.to/adityachooramani)
 
----
+</div>
 
-## 🧰 Tech & Security Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Languages**
+### Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=py,c,bash,js,flask,nodejs,mysql,postgres,mongodb,docker,aws,azure,linux,nginx,git,react&theme=dark)](https://skillicons.dev)
 
-**Offensive Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2E5BB7?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-EE0000?style=flat-square)
-
-**Defensive / Monitoring**
-
 ![Wazuh](https://img.shields.io/badge/Wazuh-3268C7?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=flat-square&logo=semgrep&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
 
-**Cloud & DevOps**
+<sub>also: Splunk · Trivy · MITRE ATT&CK · Next.js · Cisco networking · Arduino</sub>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+### Projects
 
-**Backend & Databases**
+**🛰️ Sentinel Eye** — serverless AWS backend, IAM least-privilege, real-time SNS alerting on ~1.6GB geospatial data → [`repo`](https://github.com/adityachooramani/sentinel-eye_backend)
+**🏗️ Dustinel AI** — Azure + AI security, 18 services via IaC, Entra External ID, secured GPT-4o pipeline *(Imagine Cup Top 22)* → [`repo`](https://github.com/adityachooramani/Dustinel_AI)
+**🔒 Break&Detect** — Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) → [`repo`](https://github.com/adityachooramani/break-and-detect)
+**🛡️ Falter** — C/Shell hardening engine for OpenWrt, attack-surface reduction + tamper triggers → [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
 
-<sub>Also work with: React · Next.js · Cisco networking · Arduino · NumPy/Pandas (data tooling)</sub>
+🥇 SIH 2025 National Finalist (Top 2%) · 🌍 Imagine Cup Top 22 · 🔓 TCM PEH · 🧠 Cisco CyberEssentials
 
----
-
-## 🚀 Featured Projects
-
-**🛰️ Sentinel Eye** — Serverless AWS backend with event-driven security alerting
-Least-privilege/identity-based IAM, real-time SNS change-detection (a cloud detection & alerting pipeline), processing ~1.6GB geospatial data. → [`REPO-LINK`](https://github.com/adityachooramani/sentinel-eye_backend)
-
-**🏗️ Dustinel AI** — Azure cloud + AI security (Imagine Cup Top 22)
-18 Azure services via IaC, Entra External ID IAM (sub-100ms token validation), and a secured GPT-4o assessment pipeline. → [`REPO-LINK`](https://github.com/adityachooramani/Dustinel_AI)
-
-**🔒 Break&Detect - Secure SDLC Pipeline** — DevSecOps reference project
-Intentionally vulnerable Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep/Bandit, Trivy, Checkov, OWASP ZAP) with a remediation branch showing every finding fixed. → [`REPO-LINK`](https://github.com/adityachooramani/break-and-detect)
-
-**🛡️ Falter — Network Hardening Engine** — C & Shell config engine
-Automated secure routing and attack-surface reduction on OpenWrt/Procd, with hardware tamper triggers and tmpfs RAM-backed volatile execution. → [`REPO-LINK`](https://github.com/freifunk-berlin/falter-packages/pull/502)
-
----
-
-## 📜 Certifications & Achievements
-
-- 🥇 **Smart India Hackathon 2025** — National Grand Finalist (Top 2%, National Security category)
-- 🌍 **Microsoft Imagine Cup** — Top 22, Global Semi-Finalist
-- 🔓 **Practical Ethical Hacking** — TCM Security (completed)
-- 🧠 **Cisco Networking Academy** — Introduction to Cybersecurity · Network Essentials
-
----
-## ✍️ Writeups & Blog
-- [I Tried to Hack My Own Hackathon Project. It Took Ten Minutes.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
-- [I Put Eight Security Bugs in a Flask App on Purpose. The Robots Only Caught Some of Them.](https://dev.to/adityachooramani/i-tried-to-hack-my-own-hackathon-project-it-took-ten-minutes-5np)
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachooramani&theme=gotham&hide_border=true&layout=compact&langs_count=8" height="165" />
-</p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
