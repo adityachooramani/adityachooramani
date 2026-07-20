@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
-[![terminal](https://img.shields.io/badge/-%3E_root%40aditya%3A~%23-00FF41?style=flat-square&logo=gnubash&logoColor=black)](https://github.com/adityachooramani)
-
 </div>
 
 <br>
