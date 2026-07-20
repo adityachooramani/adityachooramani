@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D0D0D" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityachooramani&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+    <img src="https://streak-stats.demolab.com/?user=adityachooramani&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </td>
 </tr>
 </table>
@@ -39,17 +39,19 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 </div>
 
-### About
-🎯 AppSec / VAPT — chasing bugs, not just building around them
-☁️ Multi-cloud IAM + IaC experience (AWS & Azure) from production-style builds
-🔓 TCM Practical Ethical Hacking — done. PortSwigger + bug bounty — in progress.
+### A little about me
+
+- 🎯 I do AppSec and VAPT: I'd rather find the bug in my own code than have someone else find it for me.
+- ☁️ Real multi-cloud experience across AWS and Azure, mostly IAM and infrastructure as code.
+- 🔓 Finished TCM's Practical Ethical Hacking. Currently deep in PortSwigger Academy and bug bounty hunting.
+- ☕ Fueled by coffee and a mild, growing addiction to Burp Suite.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachooramani)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/aa9itya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaxchooramani@gmail.com)
-[![Writeups](https://img.shields.io/badge/Writeups-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://dev.to/adityachooramani)
+<a href="https://linkedin.com/in/adityachooramani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="https://x.com/aa9itya"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
+<a href="mailto:adityaxchooramani@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+<a href="https://dev.to/adityachooramani"><img src="https://img.shields.io/badge/Writeups-0d0d0d?style=for-the-badge&logo=hashnode&logoColor=00FF41" /></a>
 
 </div>
 
@@ -72,10 +74,10 @@
 
 ### Projects
 
-**🛰️ Sentinel Eye** — serverless AWS backend, IAM least-privilege, real-time SNS alerting on ~1.6GB geospatial data → [`repo`](https://github.com/adityachooramani/sentinel-eye_backend)
-**🏗️ Dustinel AI** — Azure + AI security, 18 services via IaC, Entra External ID, secured GPT-4o pipeline *(Imagine Cup Top 22)* → [`repo`](https://github.com/adityachooramani/Dustinel_AI)
-**🔒 Break&Detect** — Flask API run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) → [`repo`](https://github.com/adityachooramani/break-and-detect)
-**🛡️ Falter** — C/Shell hardening engine for OpenWrt, attack-surface reduction + tamper triggers → [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
+- **🛰️ Sentinel Eye:** a serverless AWS backend with least-privilege IAM and real-time SNS alerting, chewing through about 1.6GB of geospatial data. [`repo`](https://github.com/adityachooramani/sentinel-eye_backend)
+- **🏗️ Dustinel AI:** Azure and AI security combined, 18 services provisioned via IaC, Entra External ID auth, and a secured GPT-4o pipeline. Landed Top 22 at Imagine Cup. [`repo`](https://github.com/adityachooramani/Dustinel_AI)
+- **🔒 Break&Detect:** a Flask API deliberately full of bugs, run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) to prove the pipeline actually catches them. [`repo`](https://github.com/adityachooramani/break-and-detect)
+- **🛡️ Falter:** a C and shell hardening engine for OpenWrt, built for attack-surface reduction and tamper detection. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
 <div align="center">
 
@@ -83,4 +85,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />\
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
