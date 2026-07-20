@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/e5/54/a9/e554a90f9cc552bce7749e17f94aa623.jpg" width="90%" />
-</div>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
@@ -71,3 +67,7 @@
 - **🏗️ Dustinel AI:** Azure and AI security combined, 18 services provisioned via IaC, Entra External ID auth, and a secured GPT-4o pipeline. Landed Top 22 at Imagine Cup. [`repo`](https://github.com/adityachooramani/Dustinel_AI)
 - **🔒 Break&Detect:** a Flask API deliberately full of bugs, run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) to prove the pipeline actually catches them. [`repo`](https://github.com/adityachooramani/break-and-detect)
 - **🛡️ Falter:** a C and shell hardening engine for OpenWrt. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
+
+<div align="center">
+<img src="https://i.pinimg.com/736x/e5/54/a9/e554a90f9cc552bce7749e17f94aa623.jpg" width="90%" />
+</div>
