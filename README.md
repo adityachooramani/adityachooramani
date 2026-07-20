@@ -19,19 +19,19 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
 ### What's up with Aditya?
 
-- 🎯 I do AppSec and VAPT: Finding bugs in my own and others' code ;)
-- 🌏 Experienced with building secure backend and deploying full stack applications :D
-- ☁️ Real multi-cloud experience across AWS and Azure.
-- 🔓 Trying my luck with bug bounties and Job application while trying to remain sane >_<
-- ☕ Other than computers and tech I like to eat, watch cinema and travel!
+- 🎯 **AppSec & VAPT** — breaking my own code (and other people's) before someone else does ;)
+- 🌏 Building secure backends, deploying full-stack apps end to end
+- ☁️ Real multi-cloud experience across **AWS** and **Azure**
+- 🔓 Chasing bug bounties and job applications while trying to stay sane >_
+- ☕ Outside of computers: food, cinema, travel
 
 </td>
-<td width="30%" align="center" valign="middle">
-<img src="https://i.pinimg.com/736x/6a/4d/b8/6a4db89fbc20304a73a3e0e9da6ec173.jpg" width="80%" />
+<td width="35%" align="center">
+<img src="https://i.pinimg.com/736x/6a/4d/b8/6a4db89fbc20304a73a3e0e9da6ec173.jpg" width="90%" alt="Aditya" />
 </td>
 </tr>
 </table>
