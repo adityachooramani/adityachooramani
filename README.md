@@ -1,4 +1,4 @@
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/f035851e-be80-47b0-ad63-82597f203e8f" /><div align="center">
+<div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
