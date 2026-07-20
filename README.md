@@ -1,6 +1,3 @@
-<video src="https://github.com/user-attachments/assets/b7c9c4b4-d5d8-4cc3-9214-d25e4476a1dc" width="100%" autoplay loop muted playsinline></video>
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&width=650&lines=Offensive+Security+%26+AppSec+Engineer;Backend+Developer;Break+it.+Understand+it.+Harden+it." />
 
 </div>
