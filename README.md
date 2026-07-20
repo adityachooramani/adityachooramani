@@ -10,21 +10,8 @@
 
 <br>
 
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityachooramani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D0D0D" />
-</td>
-<td width="50%" align="center">
-    <img src="https://streak-stats.demolab.com/?user=adityachooramani&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</td>
-</tr>
-</table>
-</p>
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityachooramani&theme=onedark&row=1&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=true" width="82%" />
+<img src="https://i.pinimg.com/736x/92/1e/85/921e85d54e4a0db6ea76c6f1dd1728b2.jpg" width="60%" />
 </div>
 
 <div align="center">
@@ -48,6 +35,7 @@
 
 <div align="center">
 
+<a href="https://adityachooramani.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00FF41" /></a>
 <a href="https://linkedin.com/in/adityachooramani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="https://x.com/aa9itya"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
 <a href="mailto:adityaxchooramani@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
