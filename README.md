@@ -65,7 +65,10 @@
 ![Wazuh](https://img.shields.io/badge/Wazuh-3268C7?style=flat-square&logo=wazuh&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=flat-square&logo=semgrep&logoColor=white)
 
-<sub>also: Splunk · Trivy · MITRE ATT&CK · Next.js · Cisco networking · Arduino</sub>
+
+<div align="center">
+<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="30%" />
+</div>
 
 ### Projects
 
