@@ -67,7 +67,7 @@
 
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="30%" />
+<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="70%" />
 </div>
 
 ### Projects
