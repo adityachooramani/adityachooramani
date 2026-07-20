@@ -24,12 +24,23 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 </div>
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ### What's up with Aditya?
 
 - 🎯 I do AppSec and VAPT: Finding bugs in my own and others' code ;)
 - ☁️ Real multi-cloud experience across AWS and Azure.
 - 🔓 Trying my luck with bug bounties and Job application while trying to remain sane >_<
 - ☕ Other than computers and tech my hobbies are ... (thinking agressively)
+
+</td>
+<td width="38%" align="center" valign="middle">
+<img src="https://i.pinimg.com/736x/49/5f/f2/495ff2d3b6a63ce574c138067ede6ed3.jpg" width="100%" />
+</td>
+</tr>
+</table>
 
 <div align="center">
 
