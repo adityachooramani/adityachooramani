@@ -24,10 +24,10 @@
 ### What's up with Aditya?
 
 - 🎯 **AppSec & VAPT** — breaking my own code (and other people's) before someone else does ;)
-- 🌏 Building secure backends, deploying full-stack apps end to end
-- ☁️ Real multi-cloud experience across **AWS** and **Azure**
-- 🔓 Chasing bug bounties and job applications while trying to stay sane >_
-- ☕ Outside of computers: food, cinema, travel
+- 🌏 Building secure backends, deploying full-stack apps end to end 0_0
+- ☁️ Real multi-cloud experience across **AWS** and **Azure** :o
+- 🔓 Chasing bug bounties and job applications while trying to stay sane >_<
+- ☕ Outside of computers: food, cinema, travel :D
 
 </td>
 <td width="35%" align="center">
