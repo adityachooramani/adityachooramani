@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="70%" valign="top">
 
 ### What's up with Aditya?
 
@@ -30,7 +30,7 @@
 - ☕ Other than computers and tech I like to eat, watch cinema and travel!
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 <img src="https://i.pinimg.com/736x/6a/4d/b8/6a4db89fbc20304a73a3e0e9da6ec173.jpg" width="80%" />
 </td>
 </tr>
