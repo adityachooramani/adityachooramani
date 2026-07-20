@@ -1,5 +1,4 @@
-<video src="https://github.com/adityachooramani/adityachooramani/blob/main/super.mp4" width="100%" controls></video>
-
+<video src="https://raw.githubusercontent.com/adityachooramani/adityachooramani/main/super.mp4" width="100%" controls></video>
 
 <div align="center">
 
