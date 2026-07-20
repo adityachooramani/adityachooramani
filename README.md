@@ -66,10 +66,6 @@
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=flat-square&logo=semgrep&logoColor=white)
 
 
-<div align="center">
-<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="70%" />
-</div>
-
 ### Projects
 
 - **🛰️ Sentinel Eye:** a serverless AWS backend with least-privilege IAM and real-time SNS alerting, chewing through about 1.6GB of geospatial data. [`repo`](https://github.com/adityachooramani/sentinel-eye_backend)
@@ -77,5 +73,6 @@
 - **🔒 Break&Detect:** a Flask API deliberately full of bugs, run through a security-gated CI/CD pipeline (Gitleaks, Semgrep, Trivy, ZAP) to prove the pipeline actually catches them. [`repo`](https://github.com/adityachooramani/break-and-detect)
 - **🛡️ Falter:** a C and shell hardening engine for OpenWrt. [`PR`](https://github.com/freifunk-berlin/falter-packages/pull/502)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=80&section=footer" />
+<div align="center">
+<img src="https://i.pinimg.com/736x/c4/b4/32/c4b43215e121f2907b9afcad50009f37.jpg" width="70%" />
+</div>
