@@ -11,10 +11,6 @@
 <br>
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/17/66/bd/1766bd75311e5358b610251569795af8.jpg" width="30%" />
-</div>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityachooramani/adityachooramani/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityachooramani/adityachooramani/output/github-contribution-grid-snake.svg" />
