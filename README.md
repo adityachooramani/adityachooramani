@@ -24,6 +24,7 @@
 ### What's up with Aditya?
 
 - 🎯 I do AppSec and VAPT: Finding bugs in my own and others' code ;)
+- 🌏 Experienced with building secure backend and deploying full stack applications :D
 - ☁️ Real multi-cloud experience across AWS and Azure.
 - 🔓 Trying my luck with bug bounties and Job application while trying to remain sane >_<
 - ☕ Other than computers and tech I like to eat, watch cinema and travel!
