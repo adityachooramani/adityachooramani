@@ -45,7 +45,7 @@
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=py,c,bash,js,flask,nodejs,mysql,postgres,mongodb,docker,aws,azure,linux,nginx,git,react&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,c,bash,js,flask,nodejs,mysql,postgres,mongodb,docker,aws,azure,linux,git,react&theme=dark)](https://skillicons.dev)
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
